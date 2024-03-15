@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-This app features information from a JSON server running at localhost/3001
+This app features information from a JSON server running at localhost:3001
 
 ## Available Scripts
 
